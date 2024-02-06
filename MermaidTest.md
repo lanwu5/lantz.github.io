@@ -9,10 +9,10 @@ graph TD;
 ```
 
 
+
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+graph TD
+    ActiveAbility-->PreActivate-->BloackAbilitiesWithTags-->UpdateTagCount-->UpdateExplicitTags
+    
+
 ```

@@ -7,4 +7,5 @@
   - Alias
     - (HighLevel to Conduit) 
   ## LinkAnimLayer
-  - 作用：
+  - 作用：拆分臃肿的动画蓝图，提升灵活性，以及性能（如未使用到的部分会一直在内存中）
+  - 类似🧠：Lyra中将逻辑拆成Component的作用，【”分/拆“】

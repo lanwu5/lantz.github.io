@@ -10,6 +10,6 @@
       </detail>
     
 # 参考
-[Lyra动画——官方文档]
+[Lyra动画——官方文档]-比较简略，大概
 
 [Lyra动画——官方文档]:https://docs.unrealengine.com/5.0/en-US/animation-in-lyra-sample-game-in-unreal-engine/

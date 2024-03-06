@@ -24,7 +24,7 @@
 # 鲁棒性
   - 判断输入
 
-# 挑选合适的特征
+# 挑选合适的特征 24.3.6 - 周三 - 19：00
   - https://weread.qq.com/web/reader/fbf32b80715c0184fbff41fk7ea329f02ce7eabe3a16049?（算法图解- 10.2）
   - 合适的标签🏷；量化；
   - <details>

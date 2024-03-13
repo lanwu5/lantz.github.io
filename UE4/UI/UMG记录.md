@@ -7,4 +7,13 @@
 # ScrollBox
   - 不能滚动：需要Fill模式而不是Auto，其中Fill诺被Hor或Ver之类的包裹，则要求父为Fill模式
 
+//24.3.13 - 17:08
+# Border
+![image](https://github.com/lanwu5/lantz.github.io/assets/42904565/b3eae2de-4dfb-4bf9-b0df-f2dbcc1da32c)
+对准Border去对其的，结果发现有偏移，原因是Border的DrawAsImage中应该设置为
+
+![image](https://github.com/lanwu5/lantz.github.io/assets/42904565/378779d5-edf2-4a43-8671-88007620602d)
+
+
+
 

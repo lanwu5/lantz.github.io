@@ -1,14 +1,14 @@
-![image](https://github.com/lanwu5/lantz.github.io/assets/42904565/6902e3b6-dc10-4875-bf92-6463b3f49cf7)
-//24.3.1 - 17点02分 - 公司
-# WidgetSwitch
+
+
+# WidgetSwitch //24.3.1
   - 所属层级的UI添加到ViewPort是，Switcher子项UI会进行Construct；且来回进行Switch时，不会触发子项UI的Construct
 
-//24.3.8 - 14：37 - 公司
-# ScrollBox
+
+# ScrollBox //24.3.8
   - 不能滚动：需要Fill模式而不是Auto，其中Fill诺被Hor或Ver之类的包裹，则要求父为Fill模式
 
-//24.3.13 - 17:08
-# Border
+# Border //24.3.13
+ 
 ![image](https://github.com/lanwu5/lantz.github.io/assets/42904565/b3eae2de-4dfb-4bf9-b0df-f2dbcc1da32c)
 对准Border去对其的，结果发现有偏移，原因是Border的DrawAsImage中应该设置为
 
@@ -16,6 +16,6 @@
 
 
 
-#24.3.20 Common-RenderScale
+# Common-RenderScale //24.3.20
   - ![image](https://github.com/lanwu5/lantz.github.io/assets/42904565/24f44f0b-9f9b-4924-a451-0f6c7259cb20)
 

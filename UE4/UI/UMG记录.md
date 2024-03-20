@@ -1,4 +1,4 @@
-
+![image](https://github.com/lanwu5/lantz.github.io/assets/42904565/6902e3b6-dc10-4875-bf92-6463b3f49cf7)
 //24.3.1 - 17点02分 - 公司
 # WidgetSwitch
   - 所属层级的UI添加到ViewPort是，Switcher子项UI会进行Construct；且来回进行Switch时，不会触发子项UI的Construct
@@ -16,4 +16,6 @@
 
 
 
+#24.3.20 Common-RenderScale
+  - ![image](https://github.com/lanwu5/lantz.github.io/assets/42904565/24f44f0b-9f9b-4924-a451-0f6c7259cb20)
 

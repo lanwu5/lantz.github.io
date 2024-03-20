@@ -19,3 +19,5 @@
 # Common-RenderScale //24.3.20
   - ![image](https://github.com/lanwu5/lantz.github.io/assets/42904565/24f44f0b-9f9b-4924-a451-0f6c7259cb20)
 
+# Design RemoveFromparent //24.3.30
+  -  抽象到父类并封装一个RemoveFromParent回调，默认UserWidget只提供了VisbilityChanged的回调

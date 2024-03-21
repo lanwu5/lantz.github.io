@@ -21,3 +21,8 @@
 
 # Design RemoveFromparent //24.3.30
   -  抽象到父类并封装一个RemoveFromParent回调，默认UserWidget只提供了VisbilityChanged的回调
+
+
+# 业务坑 //24.3.21 移除元素
+![image](https://github.com/lanwu5/lantz.github.io/assets/42904565/64c4934a-c2a3-4339-864d-a2280339f38b)
+

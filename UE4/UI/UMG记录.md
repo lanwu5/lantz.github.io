@@ -26,7 +26,10 @@
 # 业务坑 //24.3.21 移除元素
 ![image](https://github.com/lanwu5/lantz.github.io/assets/42904565/64c4934a-c2a3-4339-864d-a2280339f38b)
 
-# Common-成员函数比PreConstruct先执行
+# Common-成员函数比PreConstruct先执行//24.3.27 （执行流程）
 ![image](https://github.com/lanwu5/lantz.github.io/assets/42904565/8873bf3b-21b7-4e28-a349-95d41a214cca)
   - 原因是：外部CreateWidget后，先调用函数，后调用的AddChild（VerticalBox）
+
+# 业务坑 //24.3.27 （执行流程）
+![image](https://github.com/lanwu5/lantz.github.io/assets/42904565/c39dd7c4-524f-4e71-8690-44b2890b3617)
 

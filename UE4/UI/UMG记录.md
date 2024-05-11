@@ -32,4 +32,11 @@
 
 # 业务坑 //24.3.27 （执行流程）
 ![image](https://github.com/lanwu5/lantz.github.io/assets/42904565/c39dd7c4-524f-4e71-8690-44b2890b3617)
+解决：先SetStyle
+
+# UI坑 //24.5.11
+  - 为什么UE4中 UI ScreenSize设定了Custom尺寸，但AddToViewPort后，仍然填充满整个屏幕
+  - 原因：该UI根为SizeBox
+  - 解决：根用Overlay再次包裹SizeBox，并调整SizeBox填充模式为居中
+
 
